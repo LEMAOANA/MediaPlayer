@@ -1,0 +1,52 @@
+#main{
+-fx-alignment: center;
+}
+#vumes{
+-fx-alignment: center;
+padding: 5px 10px;
+}
+#playpuase{
+-fx-font-weight: bold;
+-fx-text-align: center;
+-fx-padding: 5px 10px;
+-fx-font-size: 40px;
+ -fx-cursor: pointer;
+ -fx-border: 1px solid #3498db;
+ -fx-background-color: transparent;
+ -fx-color: white;
+ -fx-font-size: 1.5em;
+ -fx-box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+#files{
+-fx-font-weight: bold;
+-fx-text-align: center;
+-fx-padding: 1px 1px;
+//-fx-font-size: 70px;
+ -fx-cursor: pointer;
+ -fx-border: 1px solid #3498db;
+ -fx-background-color: transparent;
+ -fx-color: orange;
+ -fx-font-size: 3em;
+ -fx-box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+
+}
+#times{
+-fx-alignment: center;
+-fx-padding: 5px 10px;
+}
+#mediadetails{
+-fx-alignment: center;
+-fx-padding: 5px 10px;
+-fx-font-size: 20px;
+-fx-font-weight: bold;
+-fx-color: white;
+}
+#pane{
+-fx-background-color: black;
+-fx-alignment: center;
+-fx-padding: 10px 20px;
+}
+HBox{
+-fx-alignment: center;
+}
+
